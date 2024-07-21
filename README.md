@@ -36,6 +36,5 @@ Segment 2 (Green Dots)
 These customers visit infrequently but spend significantly more when they do. They might be special occasion visitors or high-value customers.
 
 Segment 3 (Yellow Dots)
-
 These customers have a balanced number of visits and spending. They are likely casual customers who visit regularly but not too frequently.
 
