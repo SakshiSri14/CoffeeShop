@@ -1,68 +1,41 @@
 # Coffee Shop Analysis
-dataset from:- 
+dataset from:- https://www.kaggle.com/datasets/viramatv/coffee-shop-data
 
 ### 1. Peak Hour Analysis
+
+![peakhours](https://github.com/user-attachments/assets/68d0de15-08b0-405b-846c-a36866505d77)
+
 
 Observed the peak hour is between 7-8 and 12-14 hours, which contribute to 45.72% of the total sales
 
 ### 2. Popular products Analysis
 
+![popular products](https://github.com/user-attachments/assets/1d680176-4e7f-4685-a22d-a8f7351f2bd5)
 
 
+Mochas were the most popular drinks, accounting for 27.47% of sales.
+They can offer more sugar-free options since iced tea and lemonade are among the least popular drinks
+
+### 3. Customer Analysis
+
+![customer segmentation](https://github.com/user-attachments/assets/9c5a3ee9-7b89-4c18-9be1-18eb53b68497)
+
+
+There is a positive correlation between the number of drinks ordered and the average amount spent per customer indicating customer satisfaction.
 Segment Analysis and Suggestions for Increasing Customer Loyalty:
+
 Segment 0 (Purple Dots)
-Characteristics:
-
-Low number of orders (mostly below 5).
-Lower average spending (between 2 and 4).
-Conclusions:
-
 These customers might be occasional visitors or new customers who have not yet established a strong relationship with the coffee shop.
-They tend to spend less on average per visit.
-Suggestions for Increasing Loyalty:
+Introducing a loyalty program offering discounts or free items after a certain number of purchases can ensure they come back.
 
-Loyalty Programs: Introduce a loyalty program offering discounts or free items after a certain number of purchases.
-Personalized Promotions: Send personalized offers to encourage more frequent visits.
-Customer Feedback: Collect feedback to understand their needs and improve their experience.
 Segment 1 (Blue Dots)
-Characteristics:
+These are frequent visitors who make regular purchases. They have a consistent spending pattern but do not spend a lot per visit.
+Provide exclusive deals or limited-time offers to reward their loyalty.
 
-High number of orders (ranging from 10 to 18).
-Moderate average spending (around 4 to 5).
-Conclusions:
-
-These are frequent visitors who make regular purchases.
-They have a consistent spending pattern but do not spend a lot per visit.
-Suggestions for Increasing Loyalty:
-
-Exclusive Offers: Provide exclusive deals or limited-time offers to reward their loyalty.
-Membership Benefits: Offer a membership program with benefits like priority service or special events.
-Engagement: Engage them through personalized communication and rewards for their consistent patronage.
 Segment 2 (Green Dots)
-Characteristics:
+These customers visit infrequently but spend significantly more when they do. They might be special occasion visitors or high-value customers.
 
-Low number of orders (mostly below 5).
-High average spending (between 6 and 10).
-Conclusions:
-
-These customers visit infrequently but spend significantly more when they do.
-They might be special occasion visitors or high-value customers.
-Suggestions for Increasing Loyalty:
-
-VIP Programs: Create a VIP program with special perks to make them feel valued.
-Event Invitations: Invite them to exclusive events or tastings to enhance their connection with the brand.
-Premium Offers: Offer premium products or services tailored to their preferences.
 Segment 3 (Yellow Dots)
-Characteristics:
 
-Moderate number of orders (ranging from 1 to 7).
-Moderate average spending (between 4 and 7).
-Conclusions:
+These customers have a balanced number of visits and spending. They are likely casual customers who visit regularly but not too frequently.
 
-These customers have a balanced number of visits and spending.
-They are likely casual customers who visit regularly but not too frequently.
-Suggestions for Increasing Loyalty:
-
-Regular Engagement: Keep them engaged with regular updates, new product launches, and seasonal promotions.
-Referral Programs: Encourage them to refer friends and family with referral incentives.
-Feedback and Improvement: Continuously seek their feedback and improve the customer experience based on their suggestions.
